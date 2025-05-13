@@ -5,7 +5,7 @@
     "documentation": "",
     "requirements": [],
     "dependencies": [],
-    "codeowners": ["@hnyg"],
+    "codeowners": ["@icewall905"],
     "homeassistant": "2025.5.0"
   }
   
