@@ -1,0 +1,6 @@
+calculate:
+  description: "Evaluate a mathematical expression safely."
+  fields:
+    expression:
+      description: "A basic arithmetic expression, e.g. 5*10+2 or sqrt(2)"
+      example: "sin(pi/4)**2 + cos(pi/4)**2"
