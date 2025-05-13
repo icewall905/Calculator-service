@@ -1,0 +1,11 @@
+{
+    "domain": "calc_service",
+    "name": "Calculator Service",
+    "version": "1.0.0",
+    "documentation": "",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@hnyg"],
+    "homeassistant": "2025.5.0"
+  }
+  
