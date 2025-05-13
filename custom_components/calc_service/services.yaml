@@ -1,0 +1,14 @@
+calculate:
+  description: >
+    Evaluate a math expression _or_ convert kitchen units.
+    Examples:
+      "2 cups to ml" → 473.176
+      "convert(6, 'oz', 'g')" → 170.097
+      "1.5 lb in kg" → 0.680
+      "sin(pi/4)**2 + cos(pi/4)**2" → 1
+  fields:
+    expression:
+      required: true
+      example: "3 tbsp + 2 tsp to ml"
+      selector:
+        text: {}
